@@ -1,0 +1,15 @@
+Including headers
+  external of 'h'
+  #include<>
+Standard C++ include format
+  #include <isotream.h> can be written as  #include <isotream>
+  also by prepending a "c" before the name, like  #include <stdio.h> can be written as  #include <cstdio> 
+Linking
+  .o or .obj 
+  order is important
+ Using libraries
+ Secret addtion
+ Using plain C libraries
+ 
+ 
+ Your first C++ program
